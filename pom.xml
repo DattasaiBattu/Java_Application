@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.255.145.86:8081/repository/Web_Application/</url>
+		    <url>http://54.254.212.112:8081/repository/e-commerce/</url>
 		</repository>
   	</distributionManagement>
 	
